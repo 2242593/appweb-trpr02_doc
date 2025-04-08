@@ -2,28 +2,29 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Documentation Travail Pratique 2",
+  title: "Travail Pratique 2",
   description: "Travail pour le cours de Développement d'applications web",
   base: '/appweb-trpr02_doc/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Semaine 1', link: '/semaine_1' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Avancées de mon projet',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Semaine 1', link: '/semaine_1' },
+          { text: 'Semaine 2', link: '/semaine_2' },
+          { text: 'Semaine 3', link: '/semaine_3' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/2242593/appweb-trpr02_doc' }
     ]
   }
 })

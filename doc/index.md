@@ -8,18 +8,19 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Semaine 1
+      link: /semaine_1
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Semaine 2
+      link: /semaine_2
+    - theme: alt
+      text: Semaine 3
+      link: /semaine_3
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Journal
+    details: Cette documentation est faite sous forme de journal de bord, afin de donner de meilleurs détails sur le développement du site.
+  - title: Semaines
+    details: Chaque semaine, j'ai commenté les avancées que j'ai fait sur le travail sur sept jours, et cela pendant trois semaines.
 ---
 
