@@ -18,7 +18,7 @@ J'ai également fait la mise en place des répertoires __*GitHub*__ et publié l
 
 J'ai fini la mise en place l'environnement du site de documentation. Malheureusement, je n'ai pas commencé à coder. À la place, j'ai réfléchi à l'interface utilisateur du projet afin de ne pas rester bloqué plus tard. 
 
-## Jour 5 - Mardi 8 avril
+## Jour 6 - Mardi 8 avril
 
 J'ai ajouté le Backend pour le projet. Je me suis rappelé que l'Atelier 15 en a un, donc je m'en suis servi. Cependant, 
 j'avais oublié de faire un *npm install* suite aux ajouts, mais ce fut rapidement réglé. J'ai également supprimé les fichiers 
