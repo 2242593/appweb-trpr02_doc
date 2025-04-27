@@ -18,7 +18,8 @@ export default defineConfig({
         items: [
           { text: 'Semaine 1', link: '/semaine_1' },
           { text: 'Semaine 2', link: '/semaine_2' },
-          { text: 'Semaine 3', link: '/semaine_3' }
+          { text: 'Semaine 3', link: '/semaine_3' },
+          { text: 'Revue finale', link: '/revue_finale' }
         ]
       }
     ],

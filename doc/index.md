@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Travail Pratique 2"
   text: "Travail pour le cours de Développement d'applications web"
-  tagline: My great project tagline
+  tagline: Un projet non fini
   actions:
     - theme: brand
       text: Semaine 1
@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Semaine 3
       link: /semaine_3
+    - theme: alt
+      text: Revue finale
+      link: /revue_finale
 
 features:
   - title: Journal
